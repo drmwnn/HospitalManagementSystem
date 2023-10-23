@@ -51,7 +51,6 @@ import javafx.util.Callback;
 
 public class AdminMainFormController implements Initializable {
 
-    // nama tiap komponen
     @FXML
     private AnchorPane main_form;
 
